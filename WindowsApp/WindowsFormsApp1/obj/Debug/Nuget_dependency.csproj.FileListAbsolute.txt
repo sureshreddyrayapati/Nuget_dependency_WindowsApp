@@ -1,0 +1,17 @@
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\Telerik.WinControls.xml
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\Nuget_dependency.csproj.AssemblyReference.cache
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_Page.resources
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\Nuget_dependency.csproj.GenerateResource.cache
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\Nuget_dependency.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\Nuget_de.1D78F529.Up2Date
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\WIN11\source\repos\WindowsApp\WindowsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
